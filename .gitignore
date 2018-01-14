@@ -3,9 +3,7 @@
 # =============== #
 Temp/
 Obj/
-nunux/
-
-win/
+binaries/
 UnityGenerated/
 Library/
  
